@@ -1,0 +1,13 @@
+p {
+	border-style:outset;
+	padding: 30px 10px;
+}
+body {
+	background-image: url(lamp.jpeg);
+	background-size:100%;
+	position:absolute;
+	z-index:-1;
+}
+.sec {
+	display: flex;
+}

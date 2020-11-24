@@ -1,0 +1,36 @@
+.header {
+	position:relative;
+	border-style:double;
+	padding: 10px 20px;
+}
+body {
+	background-image: url(lamp.jpeg);
+	background-size:100%;
+	position:absolute;
+	z-index:-1;
+}
+.sec {
+	display:flex;
+}
+.secondbookheader2 {
+	font-size:12px;
+}
+.thirdbookheader2 {
+font-size:12px;
+}
+.firstbookheader2 {
+	font-size:12px;
+}
+.firstIndex {
+	border-style: groove;
+	border-color: red;
+}
+.secondIndex {
+	border-style: groove;
+	border-color: red;
+}
+.thirdIndex {
+	border: groove;
+	border-color: red;
+}
+
